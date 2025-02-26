@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MathLab0501
 - 👀 I’m interested in VR, even though I have no experience to speak of in any VR project
-- 🌱 I’m currently learning Basics of programming with Python
+- 🌱 I’m currently learning C++, decent talent in Python
 - 💞️ I’m looking to collaborate on projects for fun
-- 📫 How to reach me Facebook (pumpkin head) or Instagram (Sabaton Show) @ Mathieu Labbé
+- 📫 How to reach me Facebook or Instagram @ Mathieu Labbé
 - 😄 Pronouns: Him/Goat
 - ⚡ Fun fact: ^  != True
 
